@@ -1,0 +1,16 @@
+-------------------------------------
+Set up process
+--------------------------------------
+1) download as zip
+2) navigate car-master//
+3) copy all folder-file[app,bootstrap,config,databae ...]
+4) create a directory under htdocs named as car and paste all cpoied file,folder to it
+4) rename .env.demo to .env
+5) configure env file as per databae password only [hope database name will be as car by sql file]
+6) run the application by the url :"http://localhost/car/public"
+******************************************************************
+				OR
+******************************************************************
+clone th repo from https://github.com/Debaprasad-coder/car.git
+DO THE above step -4 to step-6				 
+
